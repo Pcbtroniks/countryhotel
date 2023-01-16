@@ -30,7 +30,8 @@
 }
 
 @layer utilities {
-    .hero-mobile-bg {
-        background: url("/public/assets/img/Hero-mobile-bg.png")
+    .hero-bg {
+        background: url("/public/assets/img/Hero-desktop-bg.png");
+        background-size: cover;
     }
 }
