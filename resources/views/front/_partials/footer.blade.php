@@ -2,7 +2,7 @@
 
     <div class="space-y"></div>
 
-    <div class="bg-main w-full px-4 flex flex-col items-center justify-center text-center py-14 gap-20">
+    <div class="bg-main w-full px-4 flex flex-col md:grid md:grid-cols-3 md:px-20 items-center justify-center text-center py-14 gap-20 lg:h-[431px]">
 
         <div>
             <img src="{{ asset('assets/log-alt.png') }}" alt="Logo Country Hotel">

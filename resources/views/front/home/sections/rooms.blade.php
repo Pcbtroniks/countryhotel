@@ -1,5 +1,5 @@
 <main>
-    <div class="w-full bg-main-light px-4">
+    <div class="w-full bg-main-light px-4 xl:px-32">
         
         <div class="space-y"></div>
         
@@ -10,10 +10,10 @@
         </div>
 
         {{-- Rooms --}}
-        <div class="grid gap-5">
+        <div class="grid gap-5 md:grid-cols-2 lg:grid-cols-6 md:place-items-center">
 
             {{-- Room Card --}}
-            <div class="shadow-card">
+            <div class="shadow-card md:col-span-3">
 
                 <div class="w-full h-[230px]">
                     <img class="w-full h-full object-cover" src="{{asset('assets/img/rooms/sencilla.png')}}" alt="Habitación sencilla">
@@ -21,7 +21,7 @@
 
                 <div class="p-6 pb-4">
 
-                    <h3 class="font-bold mb-3">
+                    <h3 class="font-bold mb-3 text-xl">
                         Habitación Estandar
                     </h3>
 
@@ -47,7 +47,7 @@
             </div>
 
             {{-- Room Card --}}
-            <div class="shadow-card">
+            <div class="shadow-card md:col-span-3">
 
                 <div class="w-full h-[230px]">
                     <img class="w-full h-full object-cover" src="{{asset('assets/img/rooms/sencilla.png')}}" alt="Habitación sencilla">
@@ -55,7 +55,7 @@
 
                 <div class="p-6 pb-4">
 
-                    <h3 class="font-bold mb-3">
+                    <h3 class="font-bold mb-3 text-xl">
                         Habitación Doble
                     </h3>
 
@@ -81,7 +81,7 @@
             </div>
 
             {{-- Room Card --}}
-            <div class="shadow-card">
+            <div class="shadow-card md:col-span-3">
 
                 <div class="w-full h-[230px]">
                     <img class="w-full h-full object-cover" src="{{asset('assets/img/rooms/sencilla.png')}}" alt="Habitación sencilla">
@@ -89,7 +89,7 @@
 
                 <div class="p-6 pb-4">
 
-                    <h3 class="font-bold mb-3">
+                    <h3 class="font-bold mb-3 text-xl">
                         Suite
                     </h3>
 
