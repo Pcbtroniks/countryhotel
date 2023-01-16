@@ -1,0 +1,40 @@
+<section>
+    
+    <div class="px-4">
+        <div class="SEPARATOR w-full h-12"></div>
+        <h2 class="font-bold text-xs uppercase">
+            En la ciudad de Guadalajara
+        </h2>
+
+        <div class="space-y"></div>
+
+        <div>
+            <h2 class="pr-10 text-2xl font-bold">COUNTRY HOTEL & SUITES</h2>
+
+            <div class="space-y"></div>
+
+            <div class="text-sm leading-6">
+
+                <p>
+                    Country Hotel & Suites abre sus puertas para recibirte con la mejor atención. Ya sea que viajes por placer o negocios, buscaremos que tengas una cómoda estadía. Estamos comprometidos con ofrecer un servicio cálido y personalizado a cada uno de nuestros huéspedes.
+                </p>
+
+                <div class="space-y"></div>
+                
+                <p>
+                    Guadalajara, también conocida como “La Perla Tapatía”, es la ciudad más grande de Jalisco, y está catalogada como una de las mejores ciudades para visitar en México.
+                    <br>
+                    <br>
+                    Conocida como la tierra del tequila y el mariachi, es rica en historia y tradiciones, como la charrería, el baile folclórico, el jarabe tapatío y el tequila.
+                </p>
+            
+            </div>
+
+            <div>
+                <div class="space-y"></div>
+                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                <div class="space-y-sm"></div>
+            </div>
+        </div>
+    </div>
+</section>

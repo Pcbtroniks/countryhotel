@@ -1,3 +1,36 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body {
+        font-family: 'Inter', sans-serif;
+    }
+
+    .space-y {
+        @apply w-full h-10;
+    }
+
+    .space-y-sm {
+        @apply w-full h-4;
+    }
+}
+
+@layer components {
+
+    .shadow-card {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .text-shadow {
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+}
+
+@layer utilities {
+    .hero-mobile-bg {
+        background: url("/public/assets/img/Hero-mobile-bg.png")
+    }
+}

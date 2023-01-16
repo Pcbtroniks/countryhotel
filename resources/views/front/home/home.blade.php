@@ -1,7 +1,15 @@
 @extends('layout.base')
 
-@section('content')
+@section('page')
 
-@include()
- <h1 class="text-sky-500">Hello world</h1>
+@include('front.home.sections.hero')
+
+@include('front.home.sections.about')
+
+@include('front.home.sections.rooms')
+
+@include('front.home.sections.comments')
+
+@include('front.home.sections.services')
+
 @endsection
