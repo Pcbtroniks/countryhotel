@@ -18,6 +18,9 @@
     </head>
     <body class="antialiased">
 
+        @include('front._partials.sidebar')
+
+
         @include('front._partials.header')
 
         @yield('page')

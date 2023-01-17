@@ -12,7 +12,7 @@
         <div class="space-y"></div>
 
         {{-- Rooms --}}
-        <div class="grid md:max-w-[1250px] mx-auto gap-5 md:grid-cols-2 lg:grid-cols-6 md:place-items-center">
+        <div class="grid md:max-w-[1250px] mx-auto gap-5 md:grid-cols-2 md:grid-cols-6 md:place-items-center">
 
             {{-- Room Card --}}
             <div class="shadow-card card md:col-span-3">
@@ -83,7 +83,7 @@
             </div>
 
             {{-- Room Card --}}
-            <div class="shadow-card md:col-span-3 lg:hidden">
+            <div class="shadow-card md:col-span-3 md:hidden">
 
                 <div class="w-full h-[230px] overflow-hidden">
                     <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/suite.png')}}" alt="Habitación sencilla">
@@ -117,7 +117,7 @@
             </div>
 
             {{-- Room Mega Card --}}
-            <div class="shadow-card md:col-span-6 hidden lg:block w-full md:max-w-[312.5rem] group">
+            <div class="shadow-card md:col-span-6 hidden md:block w-full md:max-w-[312.5rem] group">
 
                 <div class="w-full h-[530px] relative overflow-hidden">
                     <img class="w-full h-full object-cover group-hover:scale-110 transition duration-300" src="{{asset('assets/img/rooms/suite.png')}}" alt="Habitación sencilla">
