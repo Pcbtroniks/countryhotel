@@ -26,11 +26,13 @@
     function closeNav(){
         aside.classList.remove('w-full');
         document.body.classList.remove('overflow-hidden');
+        lateralMenu.classList.remove('w-72');
         lateralMenu.classList.add('w-0');
     }
     function openNav(){
         aside.classList.add('w-full');
         document.body.classList.add('overflow-hidden');
+        lateralMenu.classList.add('w-72');
         lateralMenu.classList.remove('w-0');
     
     }

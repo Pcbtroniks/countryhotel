@@ -1,5 +1,5 @@
 <aside id="aside" class="overflow-hidden fixed top-0 h-screen bg-black bg-opacity-50 z-30 transition-all duration-300">
-    <section id="lateral-menu" class="w-0 w-72 bg-white h-screen opacity-100 shadow-inner transition-all duration-300">
+    <section id="lateral-menu" class="w-0 bg-white h-screen opacity-100 shadow-inner transition-all duration-300">
         <ul>
             
             <li class="relative border-black border-opacity-30 border-b-2">
@@ -25,6 +25,11 @@
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
                 <a class="text-lg font-light" href="#"><p class="p-4">Servicios</p></a>
+            </li>
+
+            <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
+                <a class="text-lg font-light" href="#"><p class="p-4">Visita Guadalajara</p></a>
+            </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
                 <a class="text-lg font-light" href="#"><p class="p-4">Contacto</p></a>
@@ -32,4 +37,4 @@
         </ul>
     </section>
 </aside>
-<span class="w-0 hidden"></span>
+<span class="w-0 w-72 hidden"></span>
