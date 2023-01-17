@@ -133,6 +133,20 @@
 Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
                         </p>
 
+                        <ul class="flex mt-3 gap-4">
+                            <li><img src="{{ asset('assets/icons/tv.png') }}" alt="service"></li>
+                            <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="service"></li>
+                            <li><img src="{{ asset('assets/icons/air.png') }}" alt="service"></li>
+                            <li><img src="{{ asset('assets/icons/park.png') }}" alt="service"></li>
+                            <li><img src="{{ asset('assets/icons/pool.png') }}" alt="service"></li>
+                        </ul>
+
+                        <div>
+                            <div class="space-y-sm"></div>
+
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </div>
+
                     </div>
                 </div>
 

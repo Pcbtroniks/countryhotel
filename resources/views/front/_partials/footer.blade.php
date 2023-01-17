@@ -1,6 +1,5 @@
 <footer>
 
-    {{-- <div class="bg-main w-full px-4 flex flex-col md:grid md:grid-cols-3 md:px-20 items-center justify-center text-center py-14 gap-20 lg:h-[431px]"> --}}
     <div class="bg-main relative py-20 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
 
         <div>
