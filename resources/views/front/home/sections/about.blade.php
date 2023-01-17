@@ -1,17 +1,17 @@
 <section>
     
     <div class="px-4 md:px-24">
-        <div class="SEPARATOR w-full h-12"></div>
+        <div class="SEPARATOR w-full h-12 md:h-40"></div>
         <h2 class="font-bold text-xs uppercase">
             En la ciudad de Guadalajara
         </h2>
 
-        <div class="space-y"></div>
+        <div class="space-y md:hidden"></div>
 
         <div>
-            <h2 class="pr-10 text-2xl font-bold">COUNTRY HOTEL & SUITES</h2>
+            <h2 class="pr-10 text-2xl font-bold md:py-10">COUNTRY HOTEL & SUITES</h2>
 
-            <div class="space-y"></div>
+            <div class="space-y md:hidden"></div>
 
             <div class="text-sm leading-6 md:grid md:grid-cols-2 md:gap-9">
 
