@@ -20,6 +20,31 @@
 
 @section('scripts')
 
+{{-- Owl Carousel --}}
+<script src="jquery.min.js"></script>
+<script src="owlcarousel/owl.carousel.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#hero-carousel').owlCarousel({
+            items: 1,
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
+            nav: false,
+            dots: false,
+            mouseDrag: false,
+            touchDrag: false,
+            pullDrag: false,
+            freeDrag: false,
+        });
+    });
+</script>
+
+
+{{-- Menu --}}
 <script>
     const aside = document.querySelector('#aside');
     const lateralMenu = document.querySelector('#lateral-menu');
