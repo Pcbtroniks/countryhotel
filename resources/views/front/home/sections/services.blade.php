@@ -3,7 +3,7 @@
     <div>
         <div class="space-y"></div>
 
-        <div class="flex flex-col-reverse md:grid md:grid-cols-2 md:text-center bg-main-light gap-10 max-h-[621px] overflow-hidden">
+        <div class="flex flex-col-reverse md:grid md:grid-cols-2 md:text-center bg-main-light gap-10 xl:max-h-[621px] overflow-hidden">
             
             <div class="px-4 mt-10">
 
