@@ -1,33 +1,32 @@
 <section>
 
-    <div>
-        <div class="space-y"></div>
+    <div class="space-y"></div>
+    <div class="bg-main-light flex md:grid md:grid-cols-2 flex-col-reverse">
 
-        <div class="flex flex-col-reverse md:grid md:grid-cols-2 md:text-center bg-main-light gap-10 xl:max-h-[621px] overflow-hidden">
-            
-            <div class="px-4 mt-10">
+        <div class="px-4 md:mx-auto">
+            <h3 class="font-bold text-3xl my-11">Contamos con</h3>
 
-                <h2 class="pr-10 text-2xl font-bold">
-                    Contamos con
-                </h2>
-                <div class="space-y"> </div>
-                <ul class="">
-                    <li class="text-2xl font-light mb-4"> <span class="font-bold text-3xl text-main">~</span> 77 Habitaciones</li>
-                    <li class="text-2xl font-light mb-4"> <span class="font-bold text-3xl text-main">~</span> Restaurante</li>
-                    <li class="text-2xl font-light mb-4"> <span class="font-bold text-3xl text-main">~</span> Wi-Fi Gratis</li>
-                    <li class="text-2xl font-light mb-4"> <span class="font-bold text-3xl text-main">~</span> Recepción 24 Hrs.</li>
-                    <li class="text-2xl font-light mb-4"> <span class="font-bold text-3xl text-main">~</span> Seguridad Privada</li>
-                </ul>
+            <ul>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> 77 Habitaciones</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Wi-Fi Gratis</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Restaurante</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Recepción 24 Hrs.</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Seguridad Privada</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Periódicos gratuitos en el lobby</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Estacionamiento gratis</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Traslado al aeropuerto</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Personal multilingüe</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Artículos de tocador gratuitos</li>
+            </ul>
 
-                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Ver todos</button>
+            <div class="my-12">
+                <button class="w-36 h-12 font-bold bg-main text-white text-sm">ver todos</button>
             </div>
-
-            <div>
-                <img class="w-full max-h-[631px]" src="{{ asset('assets/img/services/Serivce-Image.png') }}" alt="Servicios">
-            </div>
-
         </div>
-    
-    </div>
 
+        <div>
+            <img class="w-full max-h-[630px] object-cover" src="{{ asset('assets/img/services/Serivce-Image.png') }}" alt="Servicio">
+        </div>
+
+    </div>
 </section>
