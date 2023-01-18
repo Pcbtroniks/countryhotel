@@ -18,27 +18,32 @@
 
 @endsection
 
+@section('styles')
+
+{{-- Owl Carousel --}}
+<link rel="stylesheet" href="{{ asset('assets/owl-carousel/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/owl-carousel/owl.theme.default.min.css') }}">
+
+
+@endsection
+
 @section('scripts')
 
 {{-- Owl Carousel --}}
-<script src="jquery.min.js"></script>
-<script src="owlcarousel/owl.carousel.min.js"></script>
+<script src="{{ asset('assets/js/libs/jquery-3.6.3.min.js') }}"></script>
+<script src="{{ asset('assets/owl-carousel/owl.carousel.min.js') }}"></script>
 <script>
     $(document).ready(function(){
-        $('#hero-carousel').owlCarousel({
+        $('.owl-carousel').owlCarousel({
             items: 1,
-            loop: true,
             autoplay: true,
-            autoplayTimeout: 5000,
+            loop: true,
+            autoplayTimeout: 3000,
             autoplayHoverPause: true,
             animateOut: 'fadeOut',
             animateIn: 'fadeIn',
-            nav: false,
-            dots: false,
-            mouseDrag: false,
-            touchDrag: false,
-            pullDrag: false,
-            freeDrag: false,
+            autoWidth:true,
+
         });
     });
 </script>
