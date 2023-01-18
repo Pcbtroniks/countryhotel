@@ -2,19 +2,7 @@
 
 @section('page')
 
-@include('front.home.sections.hero')
-
-@include('front.home.sections.about')
-
-@include('front.home.sections.rooms')
-
-@include('front.home.sections.comments')
-
-@include('front.home.sections.services')
-
-<section class="w-full hidden px-4">
-        <iframe class="w-full" src="https://www.google.com/maps/d/embed?mid=1au3-cozD0FQQcgUY_H2Sml3jKSYjV2c&ehbc=2E312F" height="480"></iframe>
-</section>
+@include('front.visit.sections.places')
 
 @endsection
 
