@@ -13,3 +13,7 @@ Route::get('/habitaciones', function () {
 Route::get('/visita-guadalajara', function () {
     return view('front.visit.visit');
 })->name('visit');
+
+Route::get('/contacto', function () {
+    return view('front.contact.contact');
+})->name('contact');
