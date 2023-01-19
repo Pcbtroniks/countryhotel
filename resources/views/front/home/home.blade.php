@@ -44,6 +44,11 @@
             animateOut: 'fadeOut',
             animateIn: 'fadeIn',
             autoWidth:true,
+            responsive:{
+                1200: {
+                    autoWidth:false,
+                }
+            }
 
         });
 
