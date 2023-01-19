@@ -8,7 +8,7 @@
 
 @include('front.home.sections.rooms')
 
-@include('front.home.sections.comments')
+@include('front.home.sections.comments-slide')
 
 @include('front.home.sections.services')
 
@@ -34,7 +34,8 @@
 <script src="{{ asset('assets/owl-carousel/owl.carousel.min.js') }}"></script>
 <script>
     $(document).ready(function(){
-        $('.owl-carousel').owlCarousel({
+
+        $('#hero-carousel').owlCarousel({
             items: 1,
             autoplay: true,
             loop: true,
@@ -45,6 +46,21 @@
             autoWidth:true,
 
         });
+
+        $('#comments-carousel').owlCarousel({
+            items: 1,
+            autoplay: true,
+            loop: true,
+            autoplayTimeout: 4000,
+            autoplayHoverPause: true,
+            navdots: true,
+            responsive:{
+                600: {
+                    items: 2
+                }
+            }
+        });
+
     });
 </script>
 

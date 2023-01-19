@@ -1,7 +1,7 @@
 <section>
     <div class="hero-bg bg-cover w-full h-screen relative">
 
-        <div class="owl-carousel dark-overlay absolute -z-10 top-0 left-0 h-full w-full overflow-hidden">
+        <div id="hero-carousel" class="owl-carousel dark-overlay absolute -z-10 top-0 left-0 h-full w-full overflow-hidden">
                 <img src="{{ asset('/assets/img/hero/Principal-1.jpg') }}" alt="Hero Background Image">
                 <img src="{{ asset('/assets/img/hero/Principal-2.jpg') }}" alt="Hero Background Image">
                 <img src="{{ asset('/assets/img/hero/Principal-3.jpg') }}" alt="Hero Background Image">
