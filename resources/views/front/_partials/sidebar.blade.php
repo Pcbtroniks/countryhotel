@@ -37,4 +37,5 @@
         </ul>
     </section>
 </aside>
-<span class="w-0 w-72 hidden"></span>
+<span class="w-0 hidden"></span>
+<span class="w-72 hidden"></span>
