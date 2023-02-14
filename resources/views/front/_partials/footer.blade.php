@@ -48,4 +48,14 @@
 
     </div>
 
+    <div class="bg-main-dark p-4 text-center">
+        <p class="text-white/50 text-sm">
+            &copy; 
+            <script>document.write(new Date().getFullYear())</script>
+            <noscript>2023</noscript>
+            Country Hotel & Suites. Todos los derechos reservados.
+            Powered by <a href="https://pcbtroniks.com" target="_blank" class="font-bold">Pcbtroniks</a>.
+        </p>
+    </div>
+
 </footer>
