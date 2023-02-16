@@ -20,7 +20,7 @@
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
-                <a class="text-lg font-light" href="#"><p class="p-4">Instalaciones</p></a>
+                <a class="text-lg font-light" href="{{ route('installations') }}"><p class="p-4">Instalaciones</p></a>
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">

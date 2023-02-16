@@ -10,6 +10,10 @@ Route::get('/habitaciones', function () {
     return view('front.rooms.rooms');
 })->name('rooms');
 
+Route::get('/instalaciones', function () {
+    return view('front.installations.installations');
+})->name('installations');
+
 Route::get('/visita-guadalajara', function () {
     return view('front.visit.visit');
 })->name('visit');
