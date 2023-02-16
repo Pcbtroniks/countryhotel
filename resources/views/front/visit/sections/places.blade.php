@@ -1,6 +1,6 @@
 <section>
     <div class="lg:p-20 p-0 bg-main-light">
-        <div class="shadow-card flex md:grid md:grid-cols-2 flex-col-reverse max-h-96">
+        <div class="shadow-card flex md:grid md:grid-cols-2 flex-col-reverse lg:max-h-96">
 
             <div class="px-10 md:mx-auto my-11">
                 <h2 class="font-bold text-xs uppercase mb-10">

@@ -14,6 +14,10 @@ Route::get('/instalaciones', function () {
     return view('front.installations.installations');
 })->name('installations');
 
+Route::get('/servicios', function () {
+    return view('front.services.services');
+})->name('services');
+
 Route::get('/visita-guadalajara', function () {
     return view('front.visit.visit');
 })->name('visit');
