@@ -13,7 +13,7 @@
 
                     <div class="h-52 md:h-72 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/Doble-8.jpg') }}" alt="Restaurant Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/Doble-8.jpg') }}" alt="Rooms Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -59,12 +59,14 @@
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Restaurante La Floresta</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Restaurante "La Floresta"</h2>
 
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                                Ninguna estancia en Country Hotel & Suites está completa sin visitar nuestro Restaurante La Floresta,en el que podrás disfrutar Con horario de atención de 7:00AM a 09:00PM. de Lunes a Domingo.
+                                Lunes a Domingo 07:00 a 21:00 hrs
+                                <br>
+                                Ninguna estancia en Country Hotel & Suites está completa sin visitar nuestro Restaurante La Floresta, en el que podrás disfrutar Con horario de atención de 7:00AM a 09:00PM. de Lunes a Domingo.
                             </p>
 
                         </div>
@@ -85,7 +87,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Reception Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Exterior-2.jpg') }}" alt="Reception Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -95,12 +97,12 @@
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Recepción las 24 Horas</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Traslado al Aeropuerto</h2>
 
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                             Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                                Disfruta de los servicios e instalaciones que Country Hotel & Suites ofrece a sus huéspedes.
                             </p>
 
                         </div>
@@ -121,7 +123,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-3.jpg') }}" alt="Reception Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/hero/Principal-3.jpg') }}" alt="Reception Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -136,7 +138,7 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                             Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
                             </p>
 
                         </div>
@@ -157,11 +159,11 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Exterior-2.jpg') }}" alt="Reception Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Recepcion-2.jpg') }}" alt="Reception Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M127.7 106.8L103.4 176H408.6l-24.2-69.2c-5.6-16-20.8-26.8-37.8-26.8H165.4c-17 0-32.1 10.7-37.8 26.8zm-79.6 82L82.3 90.9C94.7 55.6 128 32 165.4 32H346.6c37.4 0 70.7 23.6 83.1 58.9l34.3 97.9C492.6 205.4 512 236.4 512 272v80 48 56c0 13.3-10.7 24-24 24s-24-10.7-24-24V400H48v56c0 13.3-10.7 24-24 24s-24-10.7-24-24V400 352 272c0-35.6 19.3-66.6 48.1-83.2zM416 224H96c-26.5 0-48 21.5-48 48v80H464V272c0-26.5-21.5-48-48-48zM112 256a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm256 32a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"/></svg>    
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M334.9 240.3c-8.703 1.531-14.52 9.812-12.97 18.53c9.609 54.5 19.27 135.3 10.73 211.1C332 476.2 327.6 480 323.9 480H264.9c-2.656 0-4.609-1.75-5.797-3.219c-2.75-3.438-3.766-8.281-2.734-13.03c9.078-41.56 24.06-123.9 22.62-208C278.9 246.9 271.4 240.7 262.7 240C253.9 240.2 246.9 247.4 247 256.3c1.391 80.91-13.11 160.4-21.88 200.6c-3.109 14.09 .2813 29 9.049 39.91C241.9 506.5 253.1 512 264.9 512h58.95c20.72 0 38.19-16.56 40.64-38.53c8.953-79.56-1.062-163.7-11.05-220.3C351.9 244.5 343.7 238.4 334.9 240.3zM409.6 58.19c-32.09 0-62.86 7.25-90.02 21.12C293.2 31.81 233.2 0 166.4 0C81.14 0 12.93 44.22 .543 107.5c-1.688 8.594 .6094 17.5 6.312 24.44C13.14 139.6 22.67 144 33.01 144h65.05C85.46 160.3 76.14 178.6 70.14 199c-19.36 65.72 3.656 129.1 11.58 140.3c5.141 7.219 13.25 11.81 22.27 12.62c1 .0938 2 .1562 3 .1562c8.674 0 17.13-3.438 23.69-9.781L266.5 208h276.5c10.34 0 19.88-4.375 26.16-12.03c5.703-6.938 8-15.84 6.312-24.41C562.8 106.9 491.5 58.19 409.6 58.19zM464 176v-32c0-8.844-7.158-16-16-16s-16 7.156-16 16v32H259.1c-4.203 0-8.25 1.656-11.25 4.625l-140.8 140.3c-3.609-5.875-24.36-61-5.75-117.3c13.77-41.66 45.99-72.88 95.74-92.78c8.203-3.281 12.2-12.59 8.922-20.78C204.4 83.81 198.3 80 191.1 80c-1.984 0-4 .375-5.938 1.156C164.8 89.66 146.2 100 130.3 112.2C129.6 112.1 128.8 112 127.1 112L31.95 113.7C41.21 66.38 97.76 32 166.4 32c61.27 0 115.1 30.94 130.8 75.28c1.641 4.594 5.297 8.188 9.922 9.781c4.625 1.562 9.719 .9375 13.81-1.719c25.58-16.44 56.24-25.16 88.63-25.16c66.89 0 124.7 37.63 133.4 85.81H464z"/></svg>
                         </div>
                     </div>
 
@@ -172,7 +174,7 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                             Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
                             </p>
 
                         </div>
@@ -193,11 +195,11 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Recepcion-2.jpg') }}" alt="Reception Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M639.1 170.9c0-16.6-7.23-32.64-21.13-43.64l-135-106.6C466.9 7.359 445.6 0 423.1 0H399.1C386.7 0 376 10.75 376 24c0 30.88-25.12 56-56 56S264 54.88 264 24C264 10.75 253.3 0 240 0h-24C194.4 0 173.1 7.359 156.2 20.72L21.13 127.3C7.228 138.3 .0008 154.4 .0008 170.9c0 12.6 4.295 24.73 12.35 34.68l49.97 61.63c11.03 13.61 27.3 20.7 43.71 20.7c12.22 0 24.52-3.93 34.79-12.03L160 260.8V440c0 39.7 32.31 72 72 72h175.1c39.69 0 72-32.3 72-72V260.8l19.19 15.14c10.26 8.127 22.57 12.07 34.8 12.07c16.41 0 32.69-7.1 43.7-20.73l49.97-61.63C635.7 195.7 639.1 183.6 639.1 170.9zM592 170.1c0 1.447-.4655 2.978-1.649 4.439l-50.02 61.69c-.5016 .6212-3.187 2.943-6.563 2.943c-1.528 0-3.196-.4754-4.868-1.799l-71.01-56.03c-3.032-2.392-6.475-3.469-9.838-3.469c-8.278 0-16.07 6.525-16.07 16.03V440c0 13.25-10.75 24-24 24H232c-13.25 0-24-10.75-24-24V194.7c0-9.505-7.797-16.03-16.07-16.03c-3.366 0-6.811 1.079-9.844 3.474L111.1 238.2C109.5 239.5 107.8 239.1 106.2 239.1c-3.003 0-5.61-1.728-6.612-2.965L49.65 175.4C48.55 174.1 47.99 172.4 47.99 170.8c0-2.144 .9586-4.282 2.88-5.8l134.1-106.6C194.4 51.71 205.1 48 216 48h2.795C229.7 93.81 270.9 128 320 128s90.34-34.19 101.2-80h2.764c10.92 0 21.64 3.705 30.13 10.39l134.1 106.6C590.6 166.1 592 168.4 592 170.1z"/></svg>    
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
                         </div>
                     </div>
 
@@ -208,7 +210,115 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                             Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                            </p>
+
+                        </div>
+                        
+                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
+                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                        </a>
+
+                    </div>
+
+                </div>
+
+                {{-- /card --}}
+                
+                {{-- card --}}
+
+                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
+                        <picture>
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                        </picture>
+
+                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                        </div>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Wi-FI Gratis</h2>
+
+                        <div>
+
+                            <p class="text-sm font-bold text-dark-medium leading-6">
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                            </p>
+
+                        </div>
+                        
+                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
+                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                        </a>
+
+                    </div>
+
+                </div>
+
+                {{-- /card --}}
+
+                {{-- card --}}
+
+                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
+                        <picture>
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                        </picture>
+
+                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                        </div>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Seguridad Privada</h2>
+
+                        <div>
+
+                            <p class="text-sm font-bold text-dark-medium leading-6">
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
+                            </p>
+
+                        </div>
+                        
+                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
+                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                        </a>
+
+                    </div>
+
+                </div>
+
+                {{-- /card --}}
+
+                {{-- card --}}
+
+                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
+                        <picture>
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                        </picture>
+
+                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                        </div>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Aire acondicionado</h2>
+
+                        <div>
+
+                            <p class="text-sm font-bold text-dark-medium leading-6">
+                                Disfrute de una estancia confortable en nuestras acogedoras habitaciones.
                             </p>
 
                         </div>
