@@ -37,6 +37,9 @@
 
         @include('front._partials.footer')
 
+        <!-- Sweet Alert -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        @yield('alerts')
         <!-- Scripts -->
         @yield('scripts')
     </body>

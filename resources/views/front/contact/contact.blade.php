@@ -14,7 +14,6 @@
 
 @include('front.contact.sections.map')
 
-
 @endsection
 
 @section('styles')
@@ -24,6 +23,33 @@
 <link rel="stylesheet" href="{{ asset('assets/owl-carousel/owl.theme.default.min.css') }}">
 
 
+@endsection
+
+@section('alerts')
+@if (session('success'))
+    
+<script>
+    Swal.fire({
+        icon: 'success',
+        title: '¡Éxito!',
+        text: '{{ session('success') }}',
+        timer: 3000
+    })
+</script>
+    
+@endif
+@if ($errors->any())
+    
+<script>
+    Swal.fire({
+        icon: 'error',
+        title: 'Error!',
+        text: 'Todos los campos son obligatorios.',
+        timer: 3000
+    })
+</script>
+    
+@endif
 @endsection
 
 @section('scripts')

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Front\ContactController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -25,3 +26,5 @@ Route::get('/visita-guadalajara', function () {
 Route::get('/contacto', function () {
     return view('front.contact.contact');
 })->name('contact');
+
+Route::post('/contact', [ContactController::class, 'sendMail'])->name('sendMail');
