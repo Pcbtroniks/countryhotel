@@ -91,7 +91,7 @@
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M216 64c-13.3 0-24 10.7-24 24s10.7 24 24 24h16v33.3C119.6 157.2 32 252.4 32 368H80c0-97.2 78.8-176 176-176s176 78.8 176 176h48c0-115.6-87.6-210.8-200-222.7V112h16c13.3 0 24-10.7 24-24s-10.7-24-24-24H256 216zM24 400c-13.3 0-24 10.7-24 24s10.7 24 24 24H488c13.3 0 24-10.7 24-24s-10.7-24-24-24H24z"/></svg>
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M154.5 87.6c9.2-3.8 19.4-4.1 28.8-.8L369 152.8c6.3 2.2 13.2 1.7 19.2-1.4l83.1-43.5c14.9-7.8 31.4-11.9 48.3-11.9h50.8c11.2 0 18.6 11.6 13.9 21.8c-17.2 36.8-46 67-81.9 85.8L251.8 335.1c-1.1 .6-2.4 .9-3.7 .9H126.7c-2.3 0-4.6-1-6.1-2.8L54.2 255.7l23-11.5c2.1-1.1 4.6-1.1 6.8-.2l58.2 25.9c6.7 3 14.4 2.7 20.9-.7l88.1-46.2c7.6-4 12.5-11.7 12.8-20.3s-3.9-16.7-11.2-21.3L124 100.4l30.5-12.7zm44.8-46c-20.6-7.3-43.1-6.7-63.3 1.7L91.3 62c-29.9 12.5-33.4 53.5-5.9 70.8L192 199.9l-40.9 21.4-47.6-21.2c-15.3-6.8-32.8-6.4-47.8 1.1L66.1 222 55.8 201.3 23.6 217.4C.3 229-5.8 259.4 11.1 279.2l73.1 85.3 17.6-15.1L84.2 364.4c10.6 12.4 26.2 19.6 42.5 19.6H248.1c9.1 0 18-2.2 26-6.4L524.5 246.1c45.3-23.8 81.5-61.7 103.1-108c19.6-42-11-90.1-57.4-90.1H519.5c-24.6 0-48.8 6-70.5 17.4L375.1 104 199.3 41.6zM24 464c-13.3 0-24 10.7-24 24s10.7 24 24 24H616c13.3 0 24-10.7 24-24s-10.7-24-24-24H24z"/></svg>
                         </div>
                     </div>
 
@@ -123,7 +123,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/hero/Principal-3.jpg') }}" alt="Reception Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-3.jpg') }}" alt="Reception Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -163,7 +163,7 @@
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M334.9 240.3c-8.703 1.531-14.52 9.812-12.97 18.53c9.609 54.5 19.27 135.3 10.73 211.1C332 476.2 327.6 480 323.9 480H264.9c-2.656 0-4.609-1.75-5.797-3.219c-2.75-3.438-3.766-8.281-2.734-13.03c9.078-41.56 24.06-123.9 22.62-208C278.9 246.9 271.4 240.7 262.7 240C253.9 240.2 246.9 247.4 247 256.3c1.391 80.91-13.11 160.4-21.88 200.6c-3.109 14.09 .2813 29 9.049 39.91C241.9 506.5 253.1 512 264.9 512h58.95c20.72 0 38.19-16.56 40.64-38.53c8.953-79.56-1.062-163.7-11.05-220.3C351.9 244.5 343.7 238.4 334.9 240.3zM409.6 58.19c-32.09 0-62.86 7.25-90.02 21.12C293.2 31.81 233.2 0 166.4 0C81.14 0 12.93 44.22 .543 107.5c-1.688 8.594 .6094 17.5 6.312 24.44C13.14 139.6 22.67 144 33.01 144h65.05C85.46 160.3 76.14 178.6 70.14 199c-19.36 65.72 3.656 129.1 11.58 140.3c5.141 7.219 13.25 11.81 22.27 12.62c1 .0938 2 .1562 3 .1562c8.674 0 17.13-3.438 23.69-9.781L266.5 208h276.5c10.34 0 19.88-4.375 26.16-12.03c5.703-6.938 8-15.84 6.312-24.41C562.8 106.9 491.5 58.19 409.6 58.19zM464 176v-32c0-8.844-7.158-16-16-16s-16 7.156-16 16v32H259.1c-4.203 0-8.25 1.656-11.25 4.625l-140.8 140.3c-3.609-5.875-24.36-61-5.75-117.3c13.77-41.66 45.99-72.88 95.74-92.78c8.203-3.281 12.2-12.59 8.922-20.78C204.4 83.81 198.3 80 191.1 80c-1.984 0-4 .375-5.938 1.156C164.8 89.66 146.2 100 130.3 112.2C129.6 112.1 128.8 112 127.1 112L31.95 113.7C41.21 66.38 97.76 32 166.4 32c61.27 0 115.1 30.94 130.8 75.28c1.641 4.594 5.297 8.188 9.922 9.781c4.625 1.562 9.719 .9375 13.81-1.719c25.58-16.44 56.24-25.16 88.63-25.16c66.89 0 124.7 37.63 133.4 85.81H464z"/></svg>
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M127.7 106.8L103.4 176H408.6l-24.2-69.2c-5.6-16-20.8-26.8-37.8-26.8H165.4c-17 0-32.1 10.7-37.8 26.8zm-79.6 82L82.3 90.9C94.7 55.6 128 32 165.4 32H346.6c37.4 0 70.7 23.6 83.1 58.9l34.3 97.9C492.6 205.4 512 236.4 512 272v80 48 56c0 13.3-10.7 24-24 24s-24-10.7-24-24V400H48v56c0 13.3-10.7 24-24 24s-24-10.7-24-24V400 352 272c0-35.6 19.3-66.6 48.1-83.2zM416 224H96c-26.5 0-48 21.5-48 48v80H464V272c0-26.5-21.5-48-48-48zM112 256a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm256 32a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"/></svg>
                         </div>
                     </div>
 
@@ -231,11 +231,11 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-6.jpg') }}" alt="Romantic Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M54.2 202.9C123.2 136.7 216.8 96 320 96s196.8 40.7 265.8 106.9c12.8 12.2 33 11.8 45.2-.9s11.8-33-.9-45.2C549.7 79.5 440.4 32 320 32S90.3 79.5 9.8 156.7C-2.9 169-3.3 189.2 8.9 202s32.5 13.2 45.2 .9zM320 256c56.8 0 108.6 21.1 148.2 56c13.3 11.7 33.5 10.4 45.2-2.8s10.4-33.5-2.8-45.2C459.8 219.2 393 192 320 192s-139.8 27.2-190.5 72c-13.3 11.7-14.5 31.9-2.8 45.2s31.9 14.5 45.2 2.8c39.5-34.9 91.3-56 148.2-56zm64 160a64 64 0 1 0 -128 0 64 64 0 1 0 128 0z"/></svg>
                         </div>
                     </div>
 
@@ -267,11 +267,11 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/hero/Principal-1.jpg') }}" alt="Romantic Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M240 0c4.6 0 9.2 1 13.4 2.9L441.7 82.8c22 9.3 38.4 31 38.3 57.2c-.5 99.2-41.3 280.7-213.7 363.2c-16.7 8-36.1 8-52.8 0C41.3 420.7 .5 239.2 0 140c-.1-26.2 16.3-47.9 38.3-57.2L226.7 2.9C230.8 1 235.4 0 240 0zm0 66.8V444.8C378 378 415.1 230.1 416 141.4L240 66.8l0 0z"/></svg>
                         </div>
                     </div>
 
@@ -303,11 +303,11 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/Servicios-5.jpg') }}" alt="Romantic Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/hero/Principal-2.jpg') }}" alt="Romantic Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>    
+                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 48a48 48 0 1 1 0 96 48 48 0 1 1 0-96zm0 144A96 96 0 1 0 416 0a96 96 0 1 0 0 192zM80 112c0-35.3 28.7-64 64-64s64 28.7 64 64V273.9c0 14.5 5.7 27.1 12.8 36.6c12 16 19.2 35.9 19.2 57.5c0 53-43 96-96 96s-96-43-96-96c0-21.6 7.1-41.5 19.2-57.5C74.3 301 80 288.4 80 273.9V112zM144 0C82.1 0 32 50.2 32 112V273.9c0 1.7-.7 4.4-3.2 7.8C10.7 305.7 0 335.7 0 368c0 79.5 64.5 144 144 144s144-64.5 144-144c0-32.4-10.7-62.3-28.8-86.4c-2.5-3.4-3.2-6.1-3.2-7.8V112C256 50.2 205.9 0 144 0zm0 416c26.5 0 48-21.5 48-48c0-20.9-13.4-38.7-32-45.3V112c0-8.8-7.2-16-16-16s-16 7.2-16 16V322.7c-18.6 6.6-32 24.4-32 45.3c0 26.5 21.5 48 48 48z"/></svg>
                         </div>
                     </div>
 
