@@ -14,7 +14,7 @@ class ContactController extends Controller
     {
         $data = $request->all();
 
-        Mail::to('contact@countryhotel.com.mx')->send(new ContactMailable($data));
+        Mail::to('recepcion@countryhotel.com.mx')->send(new ContactMailable($data));
 
         return back()->with('success','Mensaje enviado correctamente');
     }
