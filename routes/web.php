@@ -28,3 +28,7 @@ Route::get('/contacto', function () {
 })->name('contact');
 
 Route::post('/contact', [ContactController::class, 'sendMail'])->name('sendMail');
+
+Route::get('redirectBooking', function () {
+    return redirect('https://hotels.cloudbeds.com/reservation/bBd28o');
+})->name('redirectBooking');

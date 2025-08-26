@@ -43,9 +43,12 @@
 
                         </div>
                         
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
                         </a>
+                    </div>
 
                     </div>
 
@@ -86,9 +89,12 @@
 
                         </div>
                         
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
                         </a>
+                    </div>
 
                     </div>
 
@@ -127,9 +133,12 @@
 
                         </div>
                         
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
                         </a>
+                    </div>
 
                     </div>
 

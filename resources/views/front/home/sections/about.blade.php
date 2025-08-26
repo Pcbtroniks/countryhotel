@@ -29,12 +29,12 @@
                 </p>
             
             </div>
-
-            <div>
-                <div class="space-y"></div>
-                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
-                <div class="space-y-sm"></div>
-            </div>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
         </div>
     </div>
 </section>

@@ -44,11 +44,12 @@
 
                         </div>
 
-                        <div class="mt-8 xl:mt-4 justify-self-end">
-
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-
-                        </div>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -90,11 +91,12 @@
 
                         </div>
 
-                        <div class="mt-4 justify-self-end">
-
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-
-                        </div>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -135,11 +137,12 @@
 
                         </div>
 
-                        <div class="mt-8 justify-self-end">
-
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-
-                        </div>
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 

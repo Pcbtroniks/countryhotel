@@ -32,7 +32,7 @@
 
             <div class="text-left">
                 <div class="space-y"></div>
-                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Enviar</button>
                 <div class="space-y-sm"></div>
             </div>
 

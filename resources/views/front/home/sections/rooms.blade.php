@@ -12,7 +12,7 @@
         <div class="space-y"></div>
 
         {{-- Rooms --}}
-        <div class="grid md:max-w-[1250px] mx-auto gap-5 md:grid-cols-2 md:grid-cols-6 md:place-items-center">
+        <div class="grid md:max-w-[1250px] mx-auto gap-5 grid-cols-2 md:grid-cols-6 md:place-items-center">
 
             {{-- Room Card --}}
             <div class="shadow-card card md:col-span-3">
@@ -41,7 +41,9 @@
 
                     <div>
                         <div class="space-y md:h-5"></div>
-                        <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
                     </div>
 
                 </div>
@@ -75,7 +77,9 @@
 
                     <div>
                         <div class="space-y md:h-5"></div>
-                        <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
                     </div>
 
                 </div>
@@ -108,8 +112,10 @@
                     </ul>
 
                     <div>
-                        <div class="space-y"></div>
-                        <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
                     </div>
 
                 </div>
@@ -141,11 +147,12 @@ Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionad
                             <li><img src="{{ asset('assets/icons/pool.png') }}" alt="service"></li>
                         </ul>
 
-                        <div>
-                            <div class="space-y-sm"></div>
-
+                    <div>
+                        <div class="space-y md:h-5"></div>
+                        <a target="_blank" href="{{ route('redirectBooking') }}">
                             <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
-                        </div>
+                        </a>
+                    </div>
 
                     </div>
                 </div>
